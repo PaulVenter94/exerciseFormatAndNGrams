@@ -1,7 +1,7 @@
 package com.exercise.restexercise.services;
 
-import com.exercise.restexercise.domain.PhraseBody;
 import com.exercise.restexercise.domain.Phrase;
+import com.exercise.restexercise.domain.PhraseBody;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

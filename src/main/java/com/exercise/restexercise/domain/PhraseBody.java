@@ -3,9 +3,10 @@ package com.exercise.restexercise.domain;
 public class PhraseBody {
     private String text;
 
-    public PhraseBody(){
+    public PhraseBody() {
 
     }
+
     public PhraseBody(String text) {
         this.text = text == null ? "" : text;
     }
